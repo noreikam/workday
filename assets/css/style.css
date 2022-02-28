@@ -19,7 +19,6 @@ body {
 
   textarea{
     font-weight: 800;
-    background-color: rgb(202, 207, 185);
   }
   
   .jumbotron {
@@ -51,19 +50,19 @@ body {
     border-top: 1px dashed #000000;
   }
   
-  .past {
+  textarea {
     background-color: #d3d3d3;
-    color: white;
+    color: black;
   }
   
   .present {
     background-color: #ff6961;
-    color: white;
+    color: black;
   }
   
   .future {
     background-color: #77dd77;
-    color: white;
+    color: black;
   }
   
   .saveBtn {
